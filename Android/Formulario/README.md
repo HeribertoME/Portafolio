@@ -1,6 +1,6 @@
-# Clima
+# Formulario
 
-App para consultar el clima utilizando la API de forecast.io
+App que simula un formaulario de envio de contacto
 
 # Screenshots
 ![Alt text](screen_1.png?raw=true "Formulario")
