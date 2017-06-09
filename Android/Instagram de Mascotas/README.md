@@ -1,6 +1,6 @@
-# Clima
+# Mascotas
 
-App para consultar el clima utilizando la API de forecast.io
+App que muestra el timeline fotos subidas a Intagram. Se utilza la API de Instagram
 
 # Screenshots
 ![Alt text](1.png?raw=true "Petagram")
