@@ -1,6 +1,6 @@
-# Clima
+# Contactos
 
-App para consultar el clima utilizando la API de forecast.io
+App que simula una agenda de contactos
 
 # Screenshots
 ![Alt text](c_1.png?raw=true "Contactos")
